@@ -22,7 +22,7 @@ httpx==0.28.0
 idna==3.10
 isodate==0.7.2
 itsdangerous==2.2.0
-Jinja2==3.1.4
+Jinja2==3.1.5
 jiter==0.8.0
 MarkupSafe==3.0.2
 msrest==0.7.1
